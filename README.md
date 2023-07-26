@@ -1,2 +1,2 @@
-# LibForm
-Full-stack library management website
+# LibForm - A MERN Web Development Project
+
